@@ -8,6 +8,7 @@ Sistema para controle financeiro pessoal.
 ## Tecnologias
 
 - C#
+- Oracle Apex
 - ASP.NET Core
 - SQL Server
 
