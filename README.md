@@ -18,6 +18,13 @@ Sistema para controle financeiro pessoal.
 - Dashboard
 - Relatórios
 
+## Funcionalidades Futuras
+
+- Login de usuários
+- Dashboard financeiro
+- Exportação de relatórios
+- Controle de metas
+
 ## Status
 
 🚧 Em desenvolvimento
